@@ -10,14 +10,14 @@
 
  Live Demo  
  Try it live on Hugging Face:
-[Social AI Bot App
-](https://huggingface.co/spaces/Barandnmz21/social-ai-bot)
+Social AI Bot App
+(https://huggingface.co/spaces/Barandnmz21/social-ai-bot)
 
 
 About The Project  
 
 Social AI Bot is a Python-based AI automation project that integrates artificial intelligence into social media management.  
-It’s built using **FastAPI** for the backend and Gradio for the user interface.
+It’s built using FastAPI for the backend and Gradio for the user interface.
 
  The bot can:
 - Fetch trending topics  
